@@ -1,32 +1,41 @@
-# Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]
-This is the code repository for [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On Parallel Programming with C# 8 and .NET Core 3.0	[Video]
+This is the code repository for [Hands-On Parallel Programming with C# 8 and .NET Core 3.0 [Video]](https://www.packtpub.com/programming/hands-on-parallel-programming-with-c-8-and-net-core-3-0-video). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Medium-sized business demands the reliability and high performance of large organizations, and the cost effectiveness of small businesses, to help them deal with competition efficiently. Cisco provides the necessary hardware and software to enable small- to medium-sized enterprises to build and maintain efficient voice and digital networks and empower the smooth running of your business. You will start by exploring the hardware options provided by Cisco to build your SME Voice Network. You will learn to set up Cisco command-line interface connections, and work with the hardware feature sets that fulfill your organization's various needs. From there, you will explore the different software you'll need for your network. You will learn to work with the Cisco Unified Communication Manager Express, Cisco Unity, and Cisco Configuration Professional Express, as well as the different file sets you will encounter on a daily basis. After that, you will learn to design your SME topology, and configure various devices for your network. You will set up your own dial plans, and also set up accounts with the help of the Cisco GUI Admin. Finally, you will learn to use Cisco Unity Connection to manage voice calls and messages over your organization's network. By the end of this tutorial, you will have mastered building, securing, and maintaining your own voice network for small- to medium-sized enterprises.
+With the new industry standard of increasing the processing power of machines, the concept of parallel programming was introduced as well. Concurrency has always been considered a difficult task and not many developers are confident at writing concurrent code. This course will put an end to the myth and help you become a pro at writing thread-safe code.
+This course—fully comprising the latest C#8 and .NET Core 3.0 updates—will introduce you to the concepts of parallel programming in .NET Core and teach you how to take advantage of the hardware. You’ll implement TPL and PLINQ to take the best advantage of a processor and boost the speed and performance of your .NET Core applications. You’ll also apply parallel programming to your data structures.
+By the end of this course, you’ll be able to parallelize your code to increase its efficiency and distribute work across multiple processors.
 
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Create and maintain your GUI connections 
-<LI>Work with virtual solutions for your large enterprise voice network with the help of VMWare 
-<LI>Manage your network’s DHCP and DNS dependencies 
-<LI>Set up different dial plans and manage your network’s users 
-<LI>Handle network connectivity with the help Cisco’s Unified Mobility Features 
-<LI>Ensure quality of service and security over your network 
-<LI>Set up and configure Cisco Unity Connection to manage voicemail over your network </LI></UL></DIV>
+<LI>Apply the core concept of parallel programming in .NET Core
+<LI>Build an application using Microsoft’s library for writing parallel code, Task Parallel Library (TPL)
+<LI>Design parallel execution flows using Parallel LINQ (PLINQ)
+<LI>Secure your parallel code from unexpected exceptions by applying efficient exception handling strategies
+<LI>Create parallel code using data structures that were specifically built for parallel execution optimization</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Targeting network engineers with a basic understanding of network topologies and how they work, this video course is also for anyone who wants to learn how to set up an efficient, scalable network for small- to medium-sized enterprises with the help of Cisco's networking solutions.	
+Developers and programmers who want to enhance the performance of their apps through parallel and concurrent programming will benefit from this course. Basic knowledge of C# and .NET Core is assumed.	
+
 ### Technical Requirements
-This course has the following software requirements:<br/>
-CISCO
+For successful completion of this course, students will require the computer systems with at least the following:
+OS: Windows 7 or later
+Processor: Dual-Core
+Memory: 2 GB of RAM
+Storage: 1 GB of free hard drive space
+
+Recommended Hardware Requirements
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+OS: Windwos 10
+Processor: Quad-Core or more
+Memory: 6 GB or RAM
+Storage: 4 GB of free hard drive space
+Software Requirements
+Operating system: Windows
+Visual Studio 2017 (https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2017)
 
 ## Related Products
-* [Cisco Voice Solutions for Medium to Large Enterprise MLE - CUCM [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-medium-large-enterprise-mle-cucm-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476263)
-
-* [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188)
-
-* [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188)
-
+* [C# 8 Programming in 4 Hours [Video]](https://www.packtpub.com/application-development/c-8-programming-4-hours-video)
